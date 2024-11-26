@@ -1,5 +1,13 @@
 # Meeting Summaries for ORANGE_UNIFIED_SCHOOL_DISTRICT in 2024
 
+## 2024-11-24 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Agenda)
+
+The text lists the members of a school board, including their respective positions such as Board President, Board Vice President, Board Clerk, and Board Members. Notably, Ana Page serves as the Board President, while Angie Rumsey holds the position of Board Vice President. The presence of a structured leadership team indicates an organized approach to governance within the school board, which may influence the development and implementation of policies.
+
+While the text does not provide specific details on policies, resolutions, or organizational names, the roles of the board members suggest a framework for decision-making that could impact various educational policies. Changes in leadership roles or the introduction of new members could lead to shifts in policy direction, including potential updates to existing policies or the introduction of new initiatives. However, without additional context or specific policy references, it is not possible to ascertain the exact nature of any policy changes or the focus areas for future board meetings.
+
+[View Full Text](https://raw.githubusercontent.com/CivicLens/__experiments_CA/refs/heads/main/data/countries/usa/states/ca/counties/orange/school_boards/orange_unified_school_district/2024/2024-11-24-agenda.txt)
+
 ## 2024-11-14 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Transcript)
 
 The transcript details a school board meeting where discussions centered around the process for selling surplus property, including the requirement for public agencies to have the right of first refusal before the property can be put up for formal bidding. The board outlined the formal bidding procedures, emphasizing that the board can choose not to select the highest bid if it does not align with the district's interests. The Naylor Act was discussed, which allows public agencies to purchase surplus property for recreational purposes at less than fair market value, provided certain criteria are met. 
@@ -606,6 +614,18 @@ Parental feedback was addressed during the public comment section, where concern
 | [John Ortega](board_member_5.md) | voted yes on Professional Conference Attendance by Board Members and Superintendent | The board approved the item with corrections for CALSA, and the addition of CLSBA and NAEYC. |
 | [Sara Pelly](board_member_6.md) | voted yes on Professional Conference Attendance by Board Members and Superintendent | The board approved the item with corrections for CALSA, and the addition of CLSBA and NAEYC. |
 | [Dr. Stephen Glass](board_member_7.md) | voted yes on Professional Conference Attendance by Board Members and Superintendent | The board approved the item with corrections for CALSA, and the addition of CLSBA and NAEYC. |
+| [Ana Page](board_member_1.md) | voted yes on scheduling a second board meeting in June | The board scheduled a second meeting following the June 13 board meeting on June 26, 2024, at 5:30 pm. |
+| [Ana Page](board_member_1.md) | voted yes on approving various consent items including contracts, bids, and agreements | Consent items included various agreements and contracts for services, purchases, and projects. |
+| [Ana Page](board_member_1.md) | voted yes on approving District Membership in Associations | Discussion on CALSA and CLSBA led to approval of the board agenda item as presented. |
+| [Ana Page](board_member_1.md) | voted yes on Professional Conference Attendance by Board Members and Superintendent | Approval included corrections for CALSA, and the addition of CLSBA and NAEYC. |
+| [Angie Rumsey](board_member_2.md) | voted yes on scheduling a second board meeting in June | The board scheduled a second meeting following the June 13 board meeting on June 26, 2024, at 5:30 pm. |
+| [Angie Rumsey](board_member_2.md) | voted yes on approving various consent items including contracts, bids, and agreements | Consent items included various agreements and contracts for services, purchases, and projects. |
+| [Angie Rumsey](board_member_2.md) | voted yes on approving District Membership in Associations | Discussion on CALSA and CLSBA led to approval of the board agenda item as presented. |
+| [Angie Rumsey](board_member_2.md) | voted yes on Professional Conference Attendance by Board Members and Superintendent | Approval included corrections for CALSA, and the addition of CLSBA and NAEYC. |
+| [John Ortega](board_member_5.md) | voted yes on scheduling a second board meeting in June | The board scheduled a second meeting following the June 13 board meeting on June 26, 2024, at 5:30 pm. |
+| [John Ortega](board_member_5.md) | voted yes on approving various consent items including contracts, bids, and agreements | Consent items included various agreements and contracts for services, purchases, and projects. |
+| [John Ortega](board_member_5.md) | voted yes on approving District Membership in Associations | Discussion on CALSA and CLSBA led to approval of the board agenda item as presented. |
+| [John Ortega](board_member_5.md) | voted yes on Professional Conference Attendance by Board Members and Superintendent | Approval included corrections for CALSA, and the addition of CLSBA and NAEYC. |
 
 ## 2024-04-11 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Agenda)
 
@@ -659,6 +679,27 @@ Parental feedback was a recurring theme during the public comments section, with
 | [Ana Page](board_member_1.md) | voted no on Parker & Covert, Amendment No. 1 | Approval of the board agenda item as presented. |
 | [John Ortega](board_member_5.md) | voted yes on Parker & Covert, Amendment No. 1 | Approval of the board agenda item as presented. |
 | [Angie Rumsey](board_member_2.md) | voted yes on Parker & Covert, Amendment No. 1 | Approval of the board agenda item as presented. |
+| [Ana Page](board_member_1.md) | voted yes on Annual Transportation Plan Review and Award | It is recommended that the Board of Education approve the transportation plan as presented. |
+| [Ana Page](board_member_1.md) | voted yes on Second Interim Financial Report | It is recommended that the Board of Education approve a positive certification of the Second Interim Financial Report fo...[truncated, use api for full text] |
+| [Ana Page](board_member_1.md) | voted yes on Declaration of Possible Need for Fully Qualified Educators | It is recommended that the Board of Education approve the attached Declaration of Need for Fully Qualified Educators for...[truncated, use api for full text] |
+| [Ana Page](board_member_1.md) | voted yes on California School Boards Association - 2024 Delegate Assembly Election | The board voted for: Lauren S. Brooks, Carol Crane, Candice Kern, Deana Miller, Annemarie Randle, Barbara Schulman, and ...[truncated, use api for full text] |
+| [Ana Page](board_member_1.md) | voted yes on Fegan Friedman & Fulfrost LLP | It is recommended that the Board of Education approve the board agenda item as presented. |
+| [Ana Page](board_member_1.md) | voted no on Atkinson, Andelson, Loya, Ruud & Romo, Amendment No. 1 | Item 11 F was pulled for further discussion. It is recommended that the Board of Education approve the Board agenda item...[truncated, use api for full text] |
+| [Ana Page](board_member_1.md) | voted no on Parker & Covert, Amendment No. 1 | It is recommended that the Board of Education approve the board agenda item as presented. |
+| [Angie Rumsey](board_member_2.md) | voted yes on Annual Transportation Plan Review and Award | It is recommended that the Board of Education approve the transportation plan as presented. |
+| [Angie Rumsey](board_member_2.md) | voted yes on Second Interim Financial Report | It is recommended that the Board of Education approve a positive certification of the Second Interim Financial Report fo...[truncated, use api for full text] |
+| [Angie Rumsey](board_member_2.md) | voted yes on Declaration of Possible Need for Fully Qualified Educators | It is recommended that the Board of Education approve the attached Declaration of Need for Fully Qualified Educators for...[truncated, use api for full text] |
+| [Angie Rumsey](board_member_2.md) | voted yes on California School Boards Association - 2024 Delegate Assembly Election | The board voted for: Lauren S. Brooks, Carol Crane, Candice Kern, Deana Miller, Annemarie Randle, Barbara Schulman, and ...[truncated, use api for full text] |
+| [Angie Rumsey](board_member_2.md) | voted yes on Fegan Friedman & Fulfrost LLP | It is recommended that the Board of Education approve the board agenda item as presented. |
+| [Angie Rumsey](board_member_2.md) | voted yes on Atkinson, Andelson, Loya, Ruud & Romo, Amendment No. 1 | Item 11 F was pulled for further discussion. It is recommended that the Board of Education approve the Board agenda item...[truncated, use api for full text] |
+| [Angie Rumsey](board_member_2.md) | voted yes on Parker & Covert, Amendment No. 1 | It is recommended that the Board of Education approve the board agenda item as presented. |
+| [John Ortega](board_member_5.md) | voted yes on Annual Transportation Plan Review and Award | It is recommended that the Board of Education approve the transportation plan as presented. |
+| [John Ortega](board_member_5.md) | voted yes on Second Interim Financial Report | It is recommended that the Board of Education approve a positive certification of the Second Interim Financial Report fo...[truncated, use api for full text] |
+| [John Ortega](board_member_5.md) | voted yes on Declaration of Possible Need for Fully Qualified Educators | It is recommended that the Board of Education approve the attached Declaration of Need for Fully Qualified Educators for...[truncated, use api for full text] |
+| [John Ortega](board_member_5.md) | voted yes on California School Boards Association - 2024 Delegate Assembly Election | The board voted for: Lauren S. Brooks, Carol Crane, Candice Kern, Deana Miller, Annemarie Randle, Barbara Schulman, and ...[truncated, use api for full text] |
+| [John Ortega](board_member_5.md) | voted yes on Fegan Friedman & Fulfrost LLP | It is recommended that the Board of Education approve the board agenda item as presented. |
+| [John Ortega](board_member_5.md) | voted yes on Atkinson, Andelson, Loya, Ruud & Romo, Amendment No. 1 | Item 11 F was pulled for further discussion. It is recommended that the Board of Education approve the Board agenda item...[truncated, use api for full text] |
+| [John Ortega](board_member_5.md) | voted yes on Parker & Covert, Amendment No. 1 | It is recommended that the Board of Education approve the board agenda item as presented. |
 
 ## 2024-03-11 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Agenda)
 
@@ -705,6 +746,18 @@ The meeting also highlighted teacher support and recognition, with the acknowled
 | [Ana Page](board_member_1.md) | voted no on First Amended and Restated In Lieu of Proposition 39 Facilities Use Agreement by and among Orange Unified Sc...[truncated, use api for full text] | Motion by Rick Ledesma, second by Madison Miner. Final Resolution: Motion carries Yea: Rick Ledesma, John Ortega, Angie ...[truncated, use api for full text] |
 | [John Ortega](board_member_5.md) | voted yes on First Amended and Restated In Lieu of Proposition 39 Facilities Use Agreement by and among Orange Unified S...[truncated, use api for full text] | Motion by Rick Ledesma, second by Madison Miner. Final Resolution: Motion carries Yea: Rick Ledesma, John Ortega, Angie ...[truncated, use api for full text] |
 | [Angie Rumsey](board_member_2.md) | voted yes on First Amended and Restated In Lieu of Proposition 39 Facilities Use Agreement by and among Orange Unified S...[truncated, use api for full text] | Motion by Rick Ledesma, second by Madison Miner. Final Resolution: Motion carries Yea: Rick Ledesma, John Ortega, Angie ...[truncated, use api for full text] |
+| [Ana Page](board_member_1.md) | voted nay on the award of RFP No. 2324-911 Villa Park High School Aquatic Center Project | Ana Page opposed the awarding of the contract to Neff Construction, Inc. |
+| [Ana Page](board_member_1.md) | voted yea on Resolution No. 16-23-24 Sole Source Contract with A&TS.p.A/ Myrtha Pools, USA | Ana Page supported the resolution for the acquisition of Myrtha Pool Products. |
+| [Ana Page](board_member_1.md) | voted yea on Resolution No. 18-23-24 Authorizing the Dedication of an Easement to Southern California Edison Company | Ana Page supported the dedication of an easement to Southern California Edison Company. |
+| [Ana Page](board_member_1.md) | voted nay on First Amended and Restated In Lieu of Proposition 39 Facilities Use Agreement with OCCA | Ana Page opposed the agreement with Orange County Classical Academy. |
+| [Angie Rumsey](board_member_2.md) | voted yea on the award of RFP No. 2324-911 Villa Park High School Aquatic Center Project | Angie Rumsey supported the awarding of the contract to Neff Construction, Inc. |
+| [Angie Rumsey](board_member_2.md) | voted yea on Resolution No. 16-23-24 Sole Source Contract with A&TS.p.A/ Myrtha Pools, USA | Angie Rumsey supported the resolution for the acquisition of Myrtha Pool Products. |
+| [Angie Rumsey](board_member_2.md) | voted yea on Resolution No. 18-23-24 Authorizing the Dedication of an Easement to Southern California Edison Company | Angie Rumsey supported the dedication of an easement to Southern California Edison Company. |
+| [Angie Rumsey](board_member_2.md) | voted yea on First Amended and Restated In Lieu of Proposition 39 Facilities Use Agreement with OCCA | Angie Rumsey supported the agreement with Orange County Classical Academy. |
+| [John Ortega](board_member_5.md) | voted yea on the award of RFP No. 2324-911 Villa Park High School Aquatic Center Project | John Ortega supported the awarding of the contract to Neff Construction, Inc. |
+| [John Ortega](board_member_5.md) | voted yea on Resolution No. 16-23-24 Sole Source Contract with A&TS.p.A/ Myrtha Pools, USA | John Ortega supported the resolution for the acquisition of Myrtha Pool Products. |
+| [John Ortega](board_member_5.md) | voted yea on Resolution No. 18-23-24 Authorizing the Dedication of an Easement to Southern California Edison Company | John Ortega supported the dedication of an easement to Southern California Edison Company. |
+| [John Ortega](board_member_5.md) | voted yea on First Amended and Restated In Lieu of Proposition 39 Facilities Use Agreement with OCCA | John Ortega supported the agreement with Orange County Classical Academy. |
 
 ## 2024-02-08 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Agenda)
 
@@ -749,6 +802,9 @@ Community engagement was evident through public comments and student board membe
 | [Ana Page](board_member_1.md) | voted yes on Resolution No. 17-23-24: Intent to Dedicate Easement to Southern California Edison Company at M & O Site | Board approved the resolution to conduct a public hearing on the subject of dedicating an easement to Southern Californi...[truncated, use api for full text] |
 | [John Ortega](board_member_5.md) | voted yes on Resolution No. 17-23-24: Intent to Dedicate Easement to Southern California Edison Company at M & O Site | Board approved the resolution to conduct a public hearing on the subject of dedicating an easement to Southern Californi...[truncated, use api for full text] |
 | [Angie Rumsey](board_member_2.md) | voted yes on Resolution No. 17-23-24: Intent to Dedicate Easement to Southern California Edison Company at M & O Site | Board approved the resolution to conduct a public hearing on the subject of dedicating an easement to Southern Californi...[truncated, use api for full text] |
+| [Ana Page](board_member_1.md) | voted yes on Resolution No. 17-23-24: Intent to Dedicate Easement to Southern California Edison Company at M & O Site | The board approved Resolution 17-23-24 to conduct a public hearing on the subject of dedicating an easement to the South...[truncated, use api for full text] |
+| [Angie Rumsey](board_member_2.md) | voted yes on Resolution No. 17-23-24: Intent to Dedicate Easement to Southern California Edison Company at M & O Site | The board approved Resolution 17-23-24 to conduct a public hearing on the subject of dedicating an easement to the South...[truncated, use api for full text] |
+| [John Ortega](board_member_5.md) | voted yes on Resolution No. 17-23-24: Intent to Dedicate Easement to Southern California Edison Company at M & O Site | The board approved Resolution 17-23-24 to conduct a public hearing on the subject of dedicating an easement to the South...[truncated, use api for full text] |
 
 ## 2024-01-18 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Agenda)
 

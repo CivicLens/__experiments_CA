@@ -74,3 +74,67 @@ In alignment with Board policies, the meeting emphasizes respectful and courteou
 
 [View Full Text](https://raw.githubusercontent.com/CivicLens/__experiments_CA/refs/heads/main/data/countries/usa/states/ca/counties/orange/school_boards/orange_unified_school_district/2024/2024-01-23-agenda.txt)
 
+## 2023-12-13 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Minutes)
+
+The Orange Unified School District Board Meeting held on April 11, 2024, included a range of discussions and resolutions addressing various educational policies and community concerns. Public comments highlighted the need for better communication from the superintendent and support for teachers, with parents advocating for increased teacher compensation and resources. The board accepted a stipulated expulsion agreement for a student based on violations of the Education Code, emphasizing the district's commitment to school discipline and safety.
+
+Significant organizational changes were made during the meeting, including the election of Ana Page as Board President and Angie Rumsey as Vice President, showcasing a shift in leadership dynamics. The board also approved a resolution to name the El Modena High School Baseball Clubhouse in honor of Freddie Freeman, recognizing his contributions to the program. Furthermore, a proposed Student Bill of Rights was adopted, aimed at enhancing student autonomy and privacy, although specific details regarding its provisions were not disclosed. The board's commitment to community engagement was evident through discussions about filling trustee vacancies and a focus on ensuring representation from all areas within the district.
+
+[View Full Text](https://raw.githubusercontent.com/CivicLens/__experiments_CA/refs/heads/main/data/countries/usa/states/ca/counties/orange/school_boards/orange_unified_school_district/2023/2023-12-13-approved-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Ana Page](board_member_1.md) | voted yes on motion to elect a Board President for the 2024 year | Ana Page was nominated for the position of Board President. |
+| [Ana Page](board_member_1.md) | voted yes on motion to elect a Board Vice President for the 2024 year | Angie Rumsey was nominated for the position of Board Vice President. |
+| [Ana Page](board_member_1.md) | voted yes on motion to elect a Board Clerk for the 2024 year | Kris Erickson was nominated for the position of Board Clerk. |
+| [Ana Page](board_member_1.md) | voted yes on motion to approve the naming of the El Modena High School Baseball Clubhouse | The clubhouse was named in honor of Freddie Freeman for his significant donation. |
+| [Ana Page](board_member_1.md) | voted yes on motion to fill trustee vacancies by appointing two candidates | The board decided to fill the vacancies by appointing two candidates to ensure all areas have representation. |
+| [Ana Page](board_member_1.md) | voted yes on motion to adopt the proposed Student Bill of Rights | The Student Bill of Rights was presented by student board members. |
+| [Ana Page](board_member_1.md) | voted yes on approving the student calendar for the 2025-2026 school year | The Board of Education approved the proposed student calendar for the 2025-2026 school year. |
+| [Ana Page](board_member_1.md) | voted yes on the motion to conduct a search for an Assistant Superintendent and Chief Business Officer | The board decided to conduct a search for an Assistant Superintendent and Chief Business Officer instead of a Deputy Sup...[truncated, use api for full text] |
+| [Ana Page](board_member_1.md) | abstained from voting on the First 5 Orange County, Children and Families Commission Agreement Number FCI-SD5-19 | Trustee Page abstained from voting stating a conflict of interest. |
+| [Angie Rumsey](board_member_2.md) | voted no on motion to elect a Board President for the 2024 year | Ana Page was nominated for the position of Board President. |
+| [Angie Rumsey](board_member_2.md) | voted yes on motion to elect a Board Vice President for the 2024 year | Angie Rumsey was nominated for the position of Board Vice President. |
+| [Angie Rumsey](board_member_2.md) | voted yes on motion to elect a Board Clerk for the 2024 year | Kris Erickson was nominated for the position of Board Clerk. |
+| [Angie Rumsey](board_member_2.md) | voted yes on motion to approve the naming of the El Modena High School Baseball Clubhouse | The clubhouse was named in honor of Freddie Freeman for his significant donation. |
+| [Angie Rumsey](board_member_2.md) | voted yes on motion to fill trustee vacancies by appointing two candidates | The board decided to fill the vacancies by appointing two candidates to ensure all areas have representation. |
+| [Angie Rumsey](board_member_2.md) | voted yes on motion to adopt the proposed Student Bill of Rights | The Student Bill of Rights was presented by student board members. |
+| [Angie Rumsey](board_member_2.md) | voted yes on approving the student calendar for the 2025-2026 school year | The Board of Education approved the proposed student calendar for the 2025-2026 school year. |
+| [Angie Rumsey](board_member_2.md) | voted no on the motion to conduct a search for an Assistant Superintendent and Chief Business Officer | The board decided to conduct a search for an Assistant Superintendent and Chief Business Officer instead of a Deputy Sup...[truncated, use api for full text] |
+| [Angie Rumsey](board_member_2.md) | voted yes on the First 5 Orange County, Children and Families Commission Agreement Number FCI-SD5-19 | It is recommended that the Board of Education accept this funding for early learning services. |
+| [John Ortega](board_member_5.md) | voted no on motion to elect a Board President for the 2024 year | Ana Page was nominated for the position of Board President. |
+| [John Ortega](board_member_5.md) | voted yes on motion to elect a Board Vice President for the 2024 year | Angie Rumsey was nominated for the position of Board Vice President. |
+| [John Ortega](board_member_5.md) | voted no on motion to elect a Board Clerk for the 2024 year | Kris Erickson was nominated for the position of Board Clerk. |
+| [John Ortega](board_member_5.md) | voted yes on motion to approve the naming of the El Modena High School Baseball Clubhouse | The clubhouse was named in honor of Freddie Freeman for his significant donation. |
+| [John Ortega](board_member_5.md) | voted no on motion to fill trustee vacancies by appointing two candidates | The board decided to fill the vacancies by appointing two candidates to ensure all areas have representation. |
+| [John Ortega](board_member_5.md) | voted yes on motion to adopt the proposed Student Bill of Rights | The Student Bill of Rights was presented by student board members. |
+| [John Ortega](board_member_5.md) | voted yes on approving the student calendar for the 2025-2026 school year | The Board of Education approved the proposed student calendar for the 2025-2026 school year. |
+| [John Ortega](board_member_5.md) | voted no on the motion to conduct a search for an Assistant Superintendent and Chief Business Officer | The board decided to conduct a search for an Assistant Superintendent and Chief Business Officer instead of a Deputy Sup...[truncated, use api for full text] |
+| [John Ortega](board_member_5.md) | voted yes on the First 5 Orange County, Children and Families Commission Agreement Number FCI-SD5-19 | It is recommended that the Board of Education accept this funding for early learning services. |
+
+## 2023-10-19 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Minutes)
+
+The regular board meeting on October 19, 2023, discussed several key issues, including parental rights, student privacy, and book access. The board voted on a proposed amendment to Board Policy 5020.1 regarding parental rights, which sparked significant debate. While some supported the policy as it stands, others argued for amendments to ensure students have access to a diverse range of books and information. The board ultimately decided to approve the policy with modifications, specifically removing the first bullet point regarding equitable access to a full library of age-appropriate books, pending rewording.
+
+The meeting also addressed school safety concerns, particularly following a previous board meeting where disruptions led to some members walking out. There were discussions about the need for security at meetings and on school campuses. Additionally, the board approved an agreement with Liberty Justice Center for legal services in anticipation of potential litigation related to the Parent Notification Policy, which has been controversial and faced public criticism.
+
+Community engagement was evident throughout the meeting, with numerous public comments from parents and community members expressing both support and opposition to the board's actions. Concerns were raised about teacher and staff shortages, with acknowledgments of recent staff departures. The board also discussed the need for ethical considerations, especially regarding potential conflicts of interest in decision-making processes.
+
+[View Full Text](https://raw.githubusercontent.com/CivicLens/__experiments_CA/refs/heads/main/data/countries/usa/states/ca/counties/orange/school_boards/orange_unified_school_district/2023/2023-10-19-approved-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Ana Page](board_member_1.md) | voted nay on AGREEMENT FOR LEGAL LITIGATION SERVICES WITH THE LIBERTY JUSTICE CENTER | The agreement was for litigation services in the event the State initiates litigation against OUSD. |
+| [Ana Page](board_member_1.md) | voted nay on PROPOSED AMENDMENT TO BOARD POLICY 5020.1 PARENTAL RIGHTS | The amendment was related to parental rights and access to diverse library resources. |
+| [Ana Page](board_member_1.md) | voted nay on PBK ARCHITECTS | The discussion involved concerns about the size of a proposed pool and potential parking problems. |
+| [Angie Rumsey](board_member_2.md) | voted yea on AGREEMENT FOR LEGAL LITIGATION SERVICES WITH THE LIBERTY JUSTICE CENTER | The agreement was for litigation services in the event the State initiates litigation against OUSD. |
+| [Angie Rumsey](board_member_2.md) | voted yea on PROPOSED AMENDMENT TO BOARD POLICY 5020.1 PARENTAL RIGHTS | The amendment was related to parental rights and access to diverse library resources. |
+| [Angie Rumsey](board_member_2.md) | voted yea on PBK ARCHITECTS | The discussion involved concerns about the size of a proposed pool and potential parking problems. |
+| [John Ortega](board_member_5.md) | voted yea on AGREEMENT FOR LEGAL LITIGATION SERVICES WITH THE LIBERTY JUSTICE CENTER | The agreement was for litigation services in the event the State initiates litigation against OUSD. |
+| [John Ortega](board_member_5.md) | voted yea on PROPOSED AMENDMENT TO BOARD POLICY 5020.1 PARENTAL RIGHTS | The amendment was related to parental rights and access to diverse library resources. |
+| [John Ortega](board_member_5.md) | voted yea on PBK ARCHITECTS | The discussion involved concerns about the size of a proposed pool and potential parking problems. |
+
