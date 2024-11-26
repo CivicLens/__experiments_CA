@@ -16,12 +16,6 @@ Additionally, there were significant concerns raised regarding a recent two-day 
 
 [View Full Text](https://raw.githubusercontent.com/CivicLens/__experiments_CA/refs/heads/main/data/countries/usa/states/ca/counties/orange/school_boards/orange_unified_school_district/2024/2024-11-14-transcript.cleaned.txt)
 
-## 2024-10-17 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Agenda)
-
-
-
-[View Full Text](https://raw.githubusercontent.com/CivicLens/__experiments_CA/refs/heads/main/data/countries/usa/states/ca/counties/orange/school_boards/orange_unified_school_district/2024/2024-10-17-agenda.txt)
-
 ## 2024-10-17 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Minutes)
 
 The regular board meeting on October 17, 2024, included a variety of discussions, decisions, and recognitions. A significant appointment was made with Leonardo Casanas being named Assistant Principal of Senior High School, with a unanimous 7-0 vote. The board also approved a compromise and release agreement regarding anticipated litigation with a 6-1 vote. Several policies were reviewed, including Board Policy 4111 concerning staff recruitment, with discussions around streamlining the hiring process. The board approved a contract for the Assistant Superintendent of Educational Services, effective from November 1, 2024, to June 30, 2026.

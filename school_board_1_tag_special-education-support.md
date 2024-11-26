@@ -31,12 +31,6 @@ Community engagement was highlighted through various reports and recognitions. T
 | [Sara Pelly](board_member_6.md) | voted yes on approval of agreement in Conference with Legal Counsel | On item 2D: Conference with Legal Counsel - Government code Section 54956.9, the board voted to approve the agreement wi...[truncated, use api for full text] |
 | [Sara Pelly](board_member_6.md) | voted yes on compromise and release agreement in anticipated litigation case | On item 2E: Conference with Legal Counsel - Anticipated Litigation, the board approved a compromise and release agreemen...[truncated, use api for full text] |
 
-## 2024-10-17 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Agenda)
-
-
-
-[View Full Text](https://raw.githubusercontent.com/CivicLens/__experiments_CA/refs/heads/main/data/countries/usa/states/ca/counties/orange/school_boards/orange_unified_school_district/2024/2024-10-17-agenda.txt)
-
 ## 2024-09-26 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Minutes)
 
 The regular board meeting held on October 17, 2024, covered a range of topics, including board policy revisions, special education programs, and community engagement initiatives. A significant policy change discussed was the approval of a compromise and release agreement related to anticipated litigation, with the vote passing 6-1. The board also approved the appointment of Leonardo Casanas as Assistant Principal of Senior High School. Additionally, the board discussed proposed revisions to board policies, with concerns raised about the lengthy hiring process and suggestions for improvement using an external consulting firm.

@@ -1,11 +1,5 @@
 # Meeting Summaries for ORANGE_UNIFIED_SCHOOL_DISTRICT with Tag: racial-equity
 
-## 2024-10-17 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Agenda)
-
-
-
-[View Full Text](https://raw.githubusercontent.com/CivicLens/__experiments_CA/refs/heads/main/data/countries/usa/states/ca/counties/orange/school_boards/orange_unified_school_district/2024/2024-10-17-agenda.txt)
-
 ## 2021-05-06 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Minutes)
 
 The May 6, 2021, Orange Unified School District board meeting, held virtually, addressed various topics, including teacher support, community engagement, and policy changes. The meeting included announcements and acknowledgments, such as the recognition of Villa Park High School's Ingrid Shine as a finalist for Employee/Teacher of the Year in California. Superintendent Dr. Hansen expressed appreciation for the board's support and highlighted upcoming events, including Employee of the Year and the Celebration of Retirees.

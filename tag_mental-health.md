@@ -1,11 +1,5 @@
 # Meeting Summaries for Tag: mental-health
 
-## 2024-10-17 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Agenda)
-
-
-
-[View Full Text](https://raw.githubusercontent.com/CivicLens/__experiments_CA/refs/heads/main/data/countries/usa/states/ca/counties/orange/school_boards/orange_unified_school_district/2024/2024-10-17-agenda.txt)
-
 ## 2024-08-15 - ORANGE_UNIFIED_SCHOOL_DISTRICT (Minutes)
 
 The minutes from the regular board meeting of the Orange Unified School District on September 12, 2024, detail various actions and discussions, including the appointment of Matthew Witmer as Assistant Superintendent, Ed Services. The board approved several policy changes, such as revisions to board policies and bylaws, including the addition of language to clarify the definition of confidential communications and adjustments to the candidate statement length in governing board elections. The board also discussed the importance of reviewing all policies, not just those affected by changes in law, and suggested forming a subcommittee for future policy reviews.
